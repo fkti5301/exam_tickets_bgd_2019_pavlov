@@ -1,0 +1,15 @@
+{
+  "gitbook": "3.x.x",
+  "title": "Ответы на экзаменационные вопросы [КТПВП, Бутусов, 2019]",
+  "plugins": [
+    "katex"
+  ],
+  "root": "src/",
+  "structure": {
+    "readme": "INTRODUCTION.md"
+  },
+  "pdf": {
+    "fontFamily": "Times New Roman",
+    "fontSize": 12
+  }
+}
